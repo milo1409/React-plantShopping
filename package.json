@@ -1,6 +1,7 @@
 {
   "name": "shoppingcart",
   "private": true,
+  "homepage": "https://milo1409.github.io/React-plantShopping"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
